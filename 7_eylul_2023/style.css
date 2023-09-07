@@ -1,0 +1,47 @@
+/* 
+    color: green;
+}
+body {
+  background-color: black;
+  color: white;
+}
+
+h4 {
+  color: rgb(226, 77, 126);
+  font-size: 20px;
+}
+
+#malzemeler {
+  color: rgb(226, 77, 126);
+}
+
+.oneriler {
+  color: rgb(236, 94, 236);
+}
+
+a[href^="#"] {
+  color: gold;
+} */
+
+header {
+  width: 50%;
+}
+
+body {
+  background-color: rgb(248, 221, 168);
+  color: black;
+}
+
+/* main{
+  font-size: 2rem;
+} */
+
+h1 {
+  border: 5px solid blue;
+  height: 20vh;
+  /* font-size: 2rem; */
+}
+
+/* p {
+  font-size: 2em;
+} */

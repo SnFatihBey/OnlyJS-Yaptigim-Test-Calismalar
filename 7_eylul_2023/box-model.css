@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  border: 2px solid red;
+  margin: 0;
+}
+
+p {
+  padding: 20px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  padding-left: 60px;
+  padding-right: 70px;
+  border: 20px solid red;
+}
